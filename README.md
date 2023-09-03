@@ -6,7 +6,7 @@
 - 🌐 Tecnologias que uso: HTML, CSS, JavaScript, React
 - ☕ Programação em Java
 - 📡 Trabalho com APIs
-- 
+  
  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fidel7z)
  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/x0awax9ciast5k5fh0l5ya3rf)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-fidelis-16bb091b1/)
