@@ -12,7 +12,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: center;">
-    <img align="left" height="150" alt="coding-time" src="https://media2.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47tvgois7iwwdujbj400z1xx4ke9u4pjbp3nsl3i83&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+    <img align="left" height="200" alt="coding-time" src="https://media2.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47tvgois7iwwdujbj400z1xx4ke9u4pjbp3nsl3i83&ep=v1_gifs_related&rid=giphy.gif&ct=g">
     <div>
       <h1 align="center">Melhores Tecnologias <3</h1>
       <img height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
