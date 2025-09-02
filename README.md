@@ -69,14 +69,15 @@ Sou movido por **desafios**, gosto de **aprender continuamente** e busco criar *
 
 ## 🌟 Projetos em Destaque  
 
-📌 [**crewai-travel-assistant**](#) ✈️  
+📌 [**crewai-travel-assistant**](https://github.com/FIDEL7Z/crewai-travel-assistant) ✈️  
 Multi-agente de IA com **CrewAI** para planejamento de viagens.  
 Um agente cria o **roteiro detalhado** e outro estima os **custos**, entregando uma visão completa e organizada da viagem.  
 
-📌 [**Steroid_Manager**](#) 🏋️  
+📌 [**Steroid_Manager**]([https://github.com/FIDEL7Z/crewai-travel-assistant](https://github.com/FIDEL7Z/Steroid_Manager)) 🏋️  
 Sistema completo para gerenciamento de uma **loja de anabolizantes e suplementos**, cobrindo desde o **cadastro de produtos** até o **acompanhamento de vendas e lucros**.  
 
-📌 [**Projeto_Detecção_de_Objetos**](#) 🎯  
+📌 [**Projeto_Detecção_de_Objetos**](https://github.com/FIDEL7Z/Projeto_Detec-o_de_Objetos
+) 🎯  
 Projeto acadêmico em **Processamento de Imagem e Visão Computacional**.  
 Utilizando o algoritmo **YOLOv4** com o framework **Darknet**, desenvolvi uma solução para **detecção de objetos em tempo real**.  
 
