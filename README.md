@@ -1,32 +1,32 @@
 <!-- Banner -->
-<div align="center"> 
-  <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/5ef37e13-8d32-44c7-87e4-494b642ade3d" />
+<div align="center">
+  <img width="1400" height="350" alt="Banner Jefferson Fidelis" src="https://github.com/user-attachments/assets/5ef37e13-8d32-44c7-87e4-494b642ade3d" />
 
-# 👨‍💻 Jefferson Fidelis  
+# 👨‍💻 Jefferson Fidelis
 
-🔹 **Software Developer** | 🚀 Entusiasta de IA | 🎧 Code + Music  
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge)](https://portfolio-swart-omega-50.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-fidelis-16bb091b1/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junior.fidelis.3386@gmail.com)  
+### Software Developer 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-fidelis-16bb091b1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-swart-omega-50.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junior.fidelis.3386@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim  
+## 🚀 Sobre mim
 
-Sou **desenvolvedor de software** com **3 anos de experiência**, atuando em projetos **full-stack** e de **Inteligência Artificial**.  
-Trabalho com **backend** (Python, Node.js, Java, Flask) e **frontend** (React, Angular, TypeScript), além de aplicar técnicas de IA como **redes neurais, visão computacional, fine-tuning de LLMs e RAG**.  
+Sou **desenvolvedor de software** com **4 anos de experiência** na área de desenvolvimento, atuando na construção de projetos **full-stack** com foco em qualidade, organização e entrega de valor.
 
-Sou movido por **desafios**, gosto de **aprender continuamente** e busco criar **soluções escaláveis** que unam **tecnologia e impacto real**.  
+Tenho experiência sólida no **backend**, trabalhando com tecnologias como **Python, Node.js, Java e Flask**, além de atuar também no **frontend** com **React, Angular e TypeScript**. Além do desenvolvimento de software, também aplico técnicas de **Inteligência Artificial**, como **redes neurais, visão computacional, fine-tuning de LLMs e RAG**, sempre buscando criar soluções modernas, escaláveis e com impacto real.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Linguagens & Frameworks**  
+### Linguagens & Frameworks
 <br/>
 <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -40,7 +40,7 @@ Sou movido por **desafios**, gosto de **aprender continuamente** e busco criar *
 <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-**Ferramentas & DevOps**  
+### Ferramentas & DevOps
 <br/>
 <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -58,51 +58,30 @@ Sou movido por **desafios**, gosto de **aprender continuamente** e busco criar *
 
 ---
 
-## 📈 Estatísticas  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fidel7z&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidel7z&layout=compact&theme=tokyonight"/>
-</div>
 
----
 
-## 🌟 Projetos em Destaque  
+## 🌟 Projetos em Destaque
 
-📌 [**crewai-travel-assistant**](https://github.com/FIDEL7Z/crewai-travel-assistant) ✈️  
-Multi-agente de IA com **CrewAI** para planejamento de viagens.  
-Um agente cria o **roteiro detalhado** e outro estima os **custos**, entregando uma visão completa e organizada da viagem.  
+### 📌 [crewai-travel-assistant](https://github.com/FIDEL7Z/crewai-travel-assistant)
+Projeto com **multiagentes de IA** utilizando **CrewAI** para planejamento de viagens.  
+Um agente monta o **roteiro detalhado** e outro realiza a **estimativa de custos**, entregando uma experiência mais completa e estratégica para o usuário.
 
-📌 [**Steroid_Manager**](https://github.com/FIDEL7Z/Steroid_Manager) 🏋️  
-Sistema completo para gerenciamento de uma **loja de anabolizantes e suplementos**, cobrindo desde o **cadastro de produtos** até o **acompanhamento de vendas e lucros**.  
+### 📌 [Steroid_Manager](https://github.com/FIDEL7Z/Steroid_Manager)
+Sistema para gerenciamento de uma loja de suplementos, com foco em **cadastro de produtos**, **controle de vendas**, **gestão de lucros** e organização operacional.
 
-📌 [**Projeto_Detecção_de_Objetos**](https://github.com/FIDEL7Z/Projeto_Detec-o_de_Objetos
-) 🎯  
-Projeto acadêmico em **Processamento de Imagem e Visão Computacional**.  
-Utilizando o algoritmo **YOLOv4** com o framework **Darknet**, desenvolvi uma solução para **detecção de objetos em tempo real**.  
+### 📌 [Projeto_Detecção_de_Objetos](https://github.com/FIDEL7Z/Projeto_Detec-o_de_Objetos)
+Projeto acadêmico voltado para **processamento de imagem** e **visão computacional**, utilizando **YOLOv4** com **Darknet** para **detecção de objetos em tempo real**.
 
 ---
 
-## 🎧 Música que embala meu código  
 
-➡️ [Clique aqui para ouvir minha playlist no Spotify](https://open.spotify.com/playlist/7Ka5hEKrsifOa7On2fulEA)
+## 🌎 Contato
 
----
-
-## ⚡ Diferenciais  
-
-✔️ Experiência em **Fullstack Development**  
-✔️ Foco em **IA aplicada a soluções reais**  
-✔️ Curadoria de **projetos práticos** para portfólio  
-✔️ Abordagem **criativa e inovadora** no desenvolvimento  
-
----
-
-## 🌎 Vamos conectar?  
-
-- 📩 **Email:** [junior.fidelis.3386@gmail.com](mailto:junior.fidelis.3386@gmail.com)  
-- 💼 **LinkedIn:** [Jefferson Fidelis](https://www.linkedin.com/in/jefferson-fidelis-16bb091b1/)  
-- 🎮 **Discord:** fidel7z  
+- 📩 **Email:** [junior.fidelis.3386@gmail.com](mailto:junior.fidelis.3386@gmail.com)
+- 💼 **LinkedIn:** [Jefferson Fidelis](https://www.linkedin.com/in/jefferson-fidelis-16bb091b1/)
+- 🌐 **Portfólio:** [portfolio-swart-omega-50.vercel.app](https://portfolio-swart-omega-50.vercel.app/)
+- 🎮 **Discord:** fidel7z
 
 ---
 
