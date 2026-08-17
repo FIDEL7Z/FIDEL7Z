@@ -64,8 +64,9 @@ Também venho aprofundando projetos com **LLMs, RAG, agentes de IA, visão compu
 ### 📌 [CrewAI Travel Assistant](https://github.com/FIDEL7Z/crewai-travel-assistant)
 Projeto com **multiagentes de IA** para planejamento de viagens, combinando geração de **roteiros inteligentes** com **estimativa de custos**, oferecendo uma experiência mais estratégica e automatizada ao usuário.
 
-### 📌 [Steroid Manager](https://github.com/FIDEL7Z/Steroid_Manager)
-Sistema de gestão para loja de suplementos, com foco em **cadastro de produtos**, **controle operacional**, **vendas** e **acompanhamento de resultados**.
+### 📌 [ATLAS — Public Safety Analytics Platform](https://github.com/FIDEL7Z/ATLAS-Public-Safety-Analytics-Platform)
+Plataforma de **Business Intelligence** com pipeline **ETL → PostgreSQL → SQL Analytics → Power BI**, aplicado a dados oficiais de segurança pública do **Sinesp VDE**.
+
 
 ### 📌 [Detecção de Objetos com YOLO](https://github.com/FIDEL7Z/Projeto_Detec-o_de_Objetos)
 Projeto acadêmico na área de **visão computacional**, utilizando **YOLOv4** com **Darknet** para **detecção de objetos em tempo real**.
