@@ -1,6 +1,7 @@
 <!-- Banner -->
 <div align="center">
-  <img width="1400" height="350" alt="Banner Jefferson Fidelis" src="https://github.com/user-attachments/assets/5ef37e13-8d32-44c7-87e4-494b642ade3d" />
+
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/eb1b4e67-93d9-4ad4-8d2a-f794b8a02dbe" />
 
 # 👨‍💻 Jefferson Fidelis
 
