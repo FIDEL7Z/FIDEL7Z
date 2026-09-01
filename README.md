@@ -3,8 +3,6 @@
 
 <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/eb1b4e67-93d9-4ad4-8d2a-f794b8a02dbe" />
 
-# 👨‍💻 Jefferson Fidelis
-
 ### Software Developer | Data & AI Solutions | Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-fidelis-16bb091b1/)
